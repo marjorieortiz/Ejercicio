@@ -1,6 +1,5 @@
-Column1;Column2;Column3
-Ciudad;País;Continente
-Guayaquil;Ecuador;América
-Madrid;España;Europa
-Beijin;China;Asia
-Sidney;Australia;Oceanía
+Ciudad,País,Continente
+Guayaquil,Ecuador,América
+Madrid,España,Europa
+Beijin,China,Asia
+Sidney,Australia,Oceanía
